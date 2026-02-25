@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I'm Md Ashraf Shahin 👋  
-### Businessman | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher
+ Businessman | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher
 
 ### Tech Entrepreneur  
 ### Full Stack Engineer | SaaS Builder  
