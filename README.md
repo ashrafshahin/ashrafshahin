@@ -41,7 +41,7 @@ Startup MVPs
 AI tools
 Revenue-generating apps
 
-## Entrepreneurial Vision
+### Entrepreneurial Vision
 I build software not just to code — but to solve real-world problems.
 Focused on:
 - Scalable digital products
@@ -49,11 +49,12 @@ Focused on:
 - Startup innovation
 - Revenue-driven tech solutions
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+**### I’m looking for help with **
+Website Design, Developemnt, eCommerce, Business and Technology related matters, I can give you nice ideas to start...
+- 💬 Ask me about Business and Technology
+- 📫 How to reach me: Email me, DM
 - 😄 Pronouns: his/him/he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: okay cool...
 
 ## 🌐 Connect With Me
 
