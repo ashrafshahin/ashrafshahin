@@ -1,15 +1,12 @@
-## Hi there 👋
-# I'm Md Ashraf Shahin 👋  
- Businessman | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher
+
+ 
 
 ### Tech Entrepreneur  
 ### Full Stack Engineer | SaaS Builder  
 ### Founder & Product Developer  
 ### AI & Automation Engineer  
 
-🚀 Building scalable software solutions  
-💡 Passionate about technology & innovation  
-🌍 Turning ideas into digital products
+
 <!--
 **ashrafshahin/ashrafshahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,24 +60,26 @@ Focused on:
 ### Portfolio: https://ashraf-shahin.vercel.app/
 ### Facebook: https://www.facebook.com/ashrafshahin786/
 -->
-<h1 align="center">Hi 👋, I'm Ashraf Shahin</h1>
+<h1 align="center">Hi, I'm Ashraf Shahin</h1>
 <h3 align="center">A passionate Website Designer and Developer</h3>
+<h4>Businessman | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher</h4>
+<p>Building scalable software solutions, Passionate about technology & innovation, Turning ideas into digital products</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafshahin&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafshahin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafshahin" alt="ashrafshahin" /></a> </p>
 
-- 🌱 I’m currently learning **Core Programming, JavaScript, R, Python**
+-  I’m currently learning **Core Programming, JavaScript, R, Python**
 
-- 👨‍💻 All of my projects are available at [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
+-  All of my projects are available at [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
 
-- 📝 I regularly write articles on [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
+-  I regularly write articles on [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
 
-- 💬 Ask me about **react, mongoDB, express, JavaScript**
+-  Ask me about **react, mongoDB, express, JavaScript**
 
-- 📫 How to reach me **ashshahin786@gmail.com**
+-  How to reach me **ashshahin786@gmail.com**
 
-- 📄 Know about my experiences [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
+-  Know about my experiences [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
