@@ -50,18 +50,18 @@ Focused on:
 - Revenue-driven tech solutions
 
 **### I’m looking for help with **
-Website Design, Developemnt, eCommerce, Business and Technology related matters, I can give you nice ideas to start...
+<h4>Website Design, Developemnt, eCommerce, Business and Technology related matters, I can give you nice ideas to start...</h4>
 - 💬 Ask me about Business and Technology
 - 📫 How to reach me: Email me, DM
 - 😄 Pronouns: his/him/he
 - ⚡ Fun fact: okay cool...
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-- LinkedIn: https://uk.linkedin.com/in/ashraf-shahin/
-- Fiverr: https://www.fiverr.com/ash_shahin/
-- Portfolio: https://ashraf-shahin.vercel.app/
-- Facebook: https://www.facebook.com/ashrafshahin786/
+### LinkedIn: https://uk.linkedin.com/in/ashraf-shahin/
+### Fiverr: https://www.fiverr.com/ash_shahin/
+### Portfolio: https://ashraf-shahin.vercel.app/
+### Facebook: https://www.facebook.com/ashrafshahin786/
 -->
 <h1 align="center">Hi 👋, I'm Ashraf Shahin</h1>
 <h3 align="center">A passionate Website Designer and Developer</h3>
