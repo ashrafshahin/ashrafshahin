@@ -14,7 +14,7 @@
 
 -  I regularly write articles on [https://ashraf-shahin.vercel.app/](https://ashraf-shahin.vercel.app/)
 
--  Ask me about **react, mongoDB, express, JavaScript**
+-  Ask me about **html, css, tailwind css, wordPress, react, mongoDB, express, JavaScript**
 
 -  How to reach me **ashshahin786@gmail.com**
 
