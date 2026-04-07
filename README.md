@@ -4,7 +4,9 @@
 <p>Businessman | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher</p>
 <p>Building scalable software solutions, Passionate about technology & innovation, Turning ideas into digital products</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafshahin&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafshahin" /> </p>
+<p align="left"> <img src="#" alt="ashrafshahin" /> </p>\>
+
+<p align="left"> <a href="https://www.fiverr.com/ash_shahin" alt="ashrafshahin" />Ashraf's Fiverr Account</a>  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafshahin" alt="ashrafshahin" /></a> </p>
 
