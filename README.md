@@ -44,7 +44,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafshahin&" alt="ashrafshahin" /></p>
 <p>## 👨‍💻 About Me
 
-- 🔭 Currently working on: PTM, Mirpur Benaroshi Polli, DCCIAN, Chatting Application, YellowPage
+
+-  🔭 I’m currently working on [HR-Manager](https://hr-manager-dfw9.onrender.com/)
+-  🔭 I’m currently working on [Chatting Application](https://craftsman-shahin.vercel.app/)
+-  🔭 I’m currently working on [Matrimorial Elite App](https://shadi-sample.vercel.app/)
+
+-  🔭 Pipeline Projects : PTM, Mirpur Benaroshi Polli, DCCIAN, Chatting Application, YellowPage, Task-manager, College-management
+     
 - 🏢 Founder of: LionTech Digital Ltd. 
 - 💻 Specialized in: Web Development, Backend Systems, SaaS Products, Tech Business Innovation
 - 📚 Always learning: AI, Cloud Computing, System Architecture
@@ -88,4 +94,5 @@ Focused on:
 ### LinkedIn: https://uk.linkedin.com/in/ashraf-shahin/
 ### Fiverr: https://www.fiverr.com/ash_shahin/
 ### Portfolio: https://ashraf-shahin.vercel.app/
-### Facebook: https://www.facebook.com/ashrafshahin786/</p>                                                                                                                       
+### Facebook: https://www.facebook.com/ashrafshahin786/</p>       
+
