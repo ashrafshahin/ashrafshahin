@@ -59,7 +59,7 @@
 - 🌱 I’m currently learning MERN Stack Development
 ## 🛠 Tech Stack
 
-- Languages: JavaScript, Python, Java, C++
+- Languages: JavaScript, Python
 - Frontend: React, Next.js, HTML, CSS
 - Backend: Node.js, Django, Spring Boot
 - Database: MySQL, PostgreSQL, MongoDB
