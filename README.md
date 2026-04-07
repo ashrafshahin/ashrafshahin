@@ -1,7 +1,7 @@
 
 <h1 align="center">Ashraf Shahin</h1>
 <h4 align="center">Business Model Developer, Prompt Engineer, Web Developer, MERN Developer</h4>
-<p>Individual Contractor | Businessman | Freelancer | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher</p>
+<p>Individual Contractor | Businessman | Freelancer | Financial Analysist | Business Annovator | Programmer | Web Designer & Developer | Software Developer | Entrepreneur |  MBA | ACCA | MERN stack Developer | WordPress | Domain & web Hosting Reseller | Technology Researcher | Proof Reader | Content Writer | Blogger</p>
 <p>Building scalable software solutions, Passionate about technology & innovation, Turning ideas into digital products</p>
 
 <!-- <p align="left"> <img src="#" alt="ashrafshahin" /> </p>\> -->
