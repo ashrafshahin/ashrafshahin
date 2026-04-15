@@ -27,11 +27,23 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://dev.to/ashrafshahin"><img src="..." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://uk.linkedin.com/in/ashraf-shahin"><img src="..." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codesandbox.io/u/ashrafshahin"><img src="..." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ashrafshahin786/"><img src="..." height="30" width="40" /></a>
+  <a href="https://dev.to/ashrafshahin" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+  
+  <a href="https://uk.linkedin.com/in/ashraf-shahin" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  
+  <a href="https://codesandbox.io/u/ashrafshahin" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.facebook.com/ashrafshahin786/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
