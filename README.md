@@ -28,8 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="middle">
-  <a href="https://dev.to/ashrafshahin" target="_blank" style="margin-right: 12px;">
+<p align="left">
+  <a href="https://dev.to/ashrafshahin" target="" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" width="50" />
   </a>
   
