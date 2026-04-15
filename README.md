@@ -27,11 +27,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="">
-<a href="https://dev.to/ashrafshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashrafshahin" height="30" width="40" /></a>
-<a href="https://uk.linkedin.com/in/ashraf-shahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://uk.linkedin.com/in/ashraf-shahin" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/ashrafshahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ashrafshahin" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ashrafshahin786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ashrafshahin786/" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://dev.to/ashrafshahin"><img src="..." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://uk.linkedin.com/in/ashraf-shahin"><img src="..." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://codesandbox.io/u/ashrafshahin"><img src="..." height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ashrafshahin786/"><img src="..." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
