@@ -26,23 +26,23 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="middle">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://dev.to/ashrafshahin" target="_blank" style="margin: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+<p align="middle">
+  <a href="https://dev.to/ashrafshahin" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" width="50" />
   </a>
   
-  <a href="https://uk.linkedin.com/in/ashraf-shahin" target="_blank" style="margin: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://uk.linkedin.com/in/ashraf-shahin" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
   </a>
   
-  <a href="https://codesandbox.io/u/ashrafshahin" target="_blank" style="margin: 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" />
+  <a href="https://codesandbox.io/u/ashrafshahin" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="40" width="50" />
   </a>
   
   <a href="https://www.facebook.com/ashrafshahin786/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" />
   </a>
 </p>
 
