@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" style="display: flex; gap: 12px; flex-wrap: nowrap; align-items: center;">
+<p align="left" style="display: flex; gap: 20px; flex-wrap: nowrap; align-items: center;">
   <a href="https://dev.to/ashrafshahin">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="50" />
   </a>
