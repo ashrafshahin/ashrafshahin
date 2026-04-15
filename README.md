@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="middle">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="middle">
   <a href="https://dev.to/ashrafshahin" target="_blank" style="margin-right: 12px;">
