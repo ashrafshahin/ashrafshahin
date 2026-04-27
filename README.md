@@ -2,7 +2,7 @@
 
 # Ashraf Shahin
 
-`Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
+`Generative AI Engineer` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
 Founder of **LionTech Digital Ltd.** — Programmer · Web Designer & Developer · Software Developer · Business Innovator · Domain & Web Hosting Reseller · Technology Researcher · Content Writer & Blogger.  
 Building scalable software that solves real-world problems.
@@ -18,21 +18,22 @@ Building scalable software that solves real-world problems.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 | | |
 |---|---|
-| 🏢 **Founder** | LionTech Digital Ltd. |
-| 🎓 **Qualifications** | MBA · ACCA |
-| 🌱 **Currently learning** | Python · R · Core Programming · Advanced JS |
-| 💬 **Ask me about** | HTML · CSS · Tailwind · React · MongoDB · Express · WordPress |
-| 🤝 **Looking to collaborate on** | SaaS · Startups · MVPs · AI tools · Automation |
+| **Expertising** | Generative AI Engineer | Prompt Engineering |
+| **Founder** | LionTech Digital Ltd. |
+| **Qualifications** | MBA · ACCA |
+| **Currently learning** | Python · R · Core Programming · Advanced JS |
+|  **Ask me about** | HTML · CSS · Tailwind · React · MongoDB · Express · WordPress |
+|  **Looking to collaborate on** | SaaS · Startups · MVPs · AI tools · Automation |
 | 📧 **Email** | ashshahin786@gmail.com |
-| 😄 **Pronouns** | he / him |
+|  **Pronouns** | he / him |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -75,32 +76,32 @@ Building scalable software that solves real-world problems.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [HR Manager](https://hr-manager-dfw9.onrender.com/) | Full HR management system with employee tracking & reporting | React · Node · MongoDB | 🟢 Live |
-| [Matrimonial Elite](https://shadi-sample.vercel.app/) | Smart matchmaking platform with filters & user profiles | Next.js · Firebase | 🟢 Live |
-| [Craftsman Chat App](https://craftsman-shahin.vercel.app/) | Real-time messaging app with modern UI/UX | React · Socket.io | 🟢 Live |
+| [HR Manager](https://hr-manager-dfw9.onrender.com/) | Full HR management system with employee tracking & reporting | React · Node · MongoDB |  Live |
+| [Matrimonial Elite](https://shadi-sample.vercel.app/) | Smart matchmaking platform with filters & user profiles | Next.js · Firebase |  Live |
+| [Craftsman Chat App](https://craftsman-shahin.vercel.app/) | Real-time messaging app with modern UI/UX | React · Socket.io | Live |
 
-> 🔧 **Pipeline:** PTM · Mirpur Benaroshi Polli · DCCIAN · YellowPage · Task Manager · College Management
+>  **Pipeline:** PTM · Mirpur Benaroshi Polli · DCCIAN · YellowPage · Task Manager · College Management
 
 ---
 
-## 💡 Entrepreneurial Focus
+##  Entrepreneurial Focus
 
 | Area | Description |
 |------|-------------|
-| ⚙️ SaaS Products | Scalable subscription-based digital products |
-| 🤖 Automation | Tools that eliminate repetitive workflows |
-| 🧠 AI Tools | Prompt engineering & AI-powered applications |
-| 🚀 Startup MVPs | Fast, revenue-ready minimum viable products |
-| 🛒 eCommerce | Web stores, WooCommerce & digital storefronts |
-| 🌐 Domain & Hosting | Web hosting reseller & domain management |
+| SaaS Products | Scalable subscription-based digital products |
+| Automation | Tools that eliminate repetitive workflows |
+| AI Tools | Prompt engineering & AI-powered applications |
+| Startup MVPs | Fast, revenue-ready minimum viable products |
+| eCommerce | Web stores, WooCommerce & digital storefronts |
+| Domain & Hosting | Web hosting reseller & domain management |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
@@ -113,7 +114,7 @@ Building scalable software that solves real-world problems.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 <a href="https://uk.linkedin.com/in/ashraf-shahin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
