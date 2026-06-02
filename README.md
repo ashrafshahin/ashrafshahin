@@ -2,7 +2,7 @@
 
 # Ashraf Shahin
 
-`Generative AI Engineer` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
+`Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
 Founder of **LionTech Digital Ltd.** — Programmer · Web Designer & Developer · Software Developer · Business Innovator · Domain & Web Hosting Reseller · Technology Researcher · Content Writer & Blogger.  
 Building scalable software that solves real-world problems.
