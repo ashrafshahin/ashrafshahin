@@ -111,7 +111,6 @@ Building scalable software that solves real-world problems.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafshahin&theme=github-compact&hide_border=true&height=165" width="48%"/>
 
 </div>
-----
 
 ##  Connect With Me
 
