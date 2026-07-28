@@ -108,7 +108,8 @@ Building scalable software that solves real-world problems.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafshahin&theme=github-dark-blue&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafshahin&theme=github-compact&hide_border=true&height=165" width="48%"/>
+</br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafshahin&theme=github-compact&hide_border=true&height=165" width="78%"/>
 
 </div>
 
