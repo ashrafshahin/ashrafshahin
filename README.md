@@ -97,11 +97,14 @@ Building scalable software that solves real-world problems.
 | [Matrimonial Elite](https://shadi-sample.vercel.app/) | Smart matchmaking platform with filters & user profiles | Next.js · Firebase |  Live |
 | [Craftsman Chat App](https://craftsman-shahin.vercel.app/) | Real-time messaging app with modern UI/UX | React · Socket.io | Live |
 
-| [Z InfoTech AI Ltd](https://z-infotech-ai.vercel.app/) | UK-based digital agency website offering custom software development, AI solutions, web applications, automation, SaaS, and IT consultancy | Next.js · Tailwind CSS · AI Solutions | Live |
-| [Invoice Generator](https://zinvoices.vercel.app/) | Web-based invoice generator for managing invoice details, calculating totals, and creating professional invoices with AI-assisted development | HTML · CSS · JavaScript | Live |
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Z InfoTech AI Ltd](https://z-infotech-ai.vercel.app/) | UK-based digital agency providing custom software development, AI solutions, web applications, automation, SaaS platforms, and IT consultancy | Next.js · Tailwind CSS · AI Solutions | Live |
+| [Invoice Generator — ZInvoices](https://zinvoices.vercel.app/) | Generate professional invoices, manage billing details, and calculate invoice totals directly in the browser | HTML · CSS · JavaScript | Live |
 | [ecoBazaar eCommerce Marketplace](https://eco-shahin.vercel.app/) | Full-stack eCommerce marketplace with product CRUD, OTP verification, JWT authentication, session and cookie handling, order APIs, and payment API integration | React · Tailwind CSS · Node.js · Express · MongoDB | Live |
-| [Book Store](https://book-store-shahin.vercel.app/) | Responsive online bookstore featuring dynamic book filtering, search, a live shopping cart, and interactive animations | HTML5 · CSS3 · Vanilla JavaScript | Live |
-| [ZinPass Password Generator](https://zinpass.vercel.app/) | User-friendly web-based password generator application | Web Technologies | Live |
+| [Book Store](https://book-store-shahin.vercel.app/) | Responsive online bookstore with dynamic book filtering, search, a live shopping cart, and interactive animations | HTML5 · CSS3 · Vanilla JavaScript | Live |
+| [ZinPass Password Generator](https://zinpass.vercel.app/) | Simple, user-friendly web-based password generator application | Web Technologies | Live |
+
 
 >  **Pipeline:** PTM · Mirpur Benaroshi Polli · DCCIAN · YellowPage · Task Manager · College Management
 
