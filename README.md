@@ -34,6 +34,16 @@ Building scalable software that solves real-world problems.
 
 ---
 
+### 🛠️ Tech Stack & Language Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true)
+
+---
+
 ## About Me
 
 I'm a **Full Stack AI Developer, AI Solutions Engineer, and Technology Entrepreneur** passionate about building scalable software, intelligent applications, and technology-driven business solutions.
