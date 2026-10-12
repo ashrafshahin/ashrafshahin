@@ -28,6 +28,32 @@ Building scalable software that solves real-world problems.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true)
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💻 Language Distribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true" alt="Language Distribution" />
+</div>
+
 ---
 
 ### 📊 GitHub Contributions
