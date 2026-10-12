@@ -26,21 +26,13 @@ Building scalable software that solves real-world problems.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true)
+
 ---
 
 ### 📊 GitHub Contributions
 
 ![GitHub Contributions](https://ghchart.rshah.org/39d353/ashrafshahin)
-
----
-
-### 🛠️ Tech Stack & Language Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true)
 
 ---
 
