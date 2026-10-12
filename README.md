@@ -4,7 +4,7 @@
 
 `Full Stack AI Developer` &nbsp;·&nbsp; `AI Solutions Engineer` &nbsp;·&nbsp; `Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
-Founder of **LionTech Digital Ltd.** — Programmer · Web Designer & Developer · Software Developer · Business Innovator · Domain & Web Hosting Reseller · Technology Researcher · Content Writer & Blogger.  
+Founder of **LionTech Digital Ltd.** — Full Stack Developer · AI Solutions Engineer · Programmer · Web Application Designer & Developer · Software Developer · Business Innovator · Domain & Web Hosting Reseller · Technology Researcher · Content Writer & Blogger.  
 Building scalable software that solves real-world problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ashraf-shahin.vercel.app/)
