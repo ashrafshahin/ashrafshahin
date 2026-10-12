@@ -32,34 +32,7 @@ Building scalable software that solves real-world problems.
 
 ## Featured Projects
 
-### 1. HR Manager
-**Description:** A full-featured HR management system for employee tracking, workforce administration, and reporting.
-
-**Tech Stack:** React · Node.js · MongoDB
-
-**Project Link:** [https://hr-manager-dfw9.onrender.com/](https://hr-manager-dfw9.onrender.com/)
-
----
-
-### 2. Matrimonial Elite
-**Description:** A smart matchmaking platform featuring user profiles and search filters to help users discover suitable matches.
-
-**Tech Stack:** Next.js · Firebase
-
-**Project Link:** [https://shadi-sample.vercel.app/](https://shadi-sample.vercel.app/)
-
----
-
-### 3. Craftsman Chat App
-**Description:** A real-time messaging application with a modern user interface and interactive chat experience.
-
-**Tech Stack:** React · Socket.io
-
-**Project Link:** [https://craftsman-shahin.vercel.app/](https://craftsman-shahin.vercel.app/)
-
----
-
-### 4. Z InfoTech AI Ltd — Digital Agency
+### Z InfoTech AI Ltd — Digital Agency
 **Description:** A digital agency website for a UK-based technology company offering custom software development, AI solutions, web applications, workflow automation, SaaS platforms, and IT consultancy.
 
 **Tech Stack:** Next.js · Tailwind CSS · AI-Assisted Development
@@ -68,7 +41,7 @@ Building scalable software that solves real-world problems.
 
 ---
 
-### 5. Invoice Generator — ZInvoices
+### Invoice Generator — ZInvoices
 **Description:** A simple, user-friendly web application for creating professional invoices, managing invoice details, calculating totals, and generating clean invoice layouts directly in the browser.
 
 **Tech Stack:** HTML · CSS · JavaScript · AI-Assisted Development
@@ -77,7 +50,7 @@ Building scalable software that solves real-world problems.
 
 ---
 
-### 6. ecoBazaar — eCommerce Marketplace
+### ecoBazaar — eCommerce Marketplace
 **Description:** A full-stack eCommerce marketplace featuring product management, OTP-based verification, JWT authentication, session and cookie handling, order APIs, and payment API integration.
 
 **Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB
@@ -86,7 +59,7 @@ Building scalable software that solves real-world problems.
 
 ---
 
-### 7. Book Store — Online Bookstore
+### Book Store — Online Bookstore
 **Description:** A fully responsive and interactive online bookstore featuring dynamic book filtering, search functionality, a live shopping cart, and modern animations.
 
 **Tech Stack:** HTML5 · CSS3 · Vanilla JavaScript
@@ -95,7 +68,7 @@ Building scalable software that solves real-world problems.
 
 ---
 
-### 8. ZinPass — Password Generator
+### ZinPass — Password Generator
 **Description:** A simple, user-friendly web-based password generator designed to make password generation convenient through a clean interface.
 
 **Tech Stack:** Web Technologies
@@ -104,12 +77,40 @@ Building scalable software that solves real-world problems.
 
 ---
 
+### HR Manager
+**Description:** A full-featured HR management system for employee tracking, workforce administration, and reporting.
+
+**Tech Stack:** React · Node.js · MongoDB
+
+**Project Link:** [https://hr-manager-dfw9.onrender.com/](https://hr-manager-dfw9.onrender.com/)
+
+---
+
+### Matrimonial Elite
+**Description:** A smart matchmaking platform featuring user profiles and search filters to help users discover suitable matches.
+
+**Tech Stack:** Next.js · Firebase
+
+**Project Link:** [https://shadi-sample.vercel.app/](https://shadi-sample.vercel.app/)
+
+---
+
+### Craftsman Chat App
+**Description:** A real-time messaging application with a modern user interface and interactive chat experience.
+
+**Tech Stack:** React · Socket.io
+
+**Project Link:** [https://craftsman-shahin.vercel.app/](https://craftsman-shahin.vercel.app/)
+
+
+---
+
 ## About Me
 
 | | |
 |---|---|
-| **Expertising** | Generative AI Engineer | AI Engineering | AI Solutions Engineering
-| **Founder** | LionTech Digital Ltd. |
+| **Expertising** | AI Engineer | Generative AI Engineering | AI Solutions Engineering
+| **Founder** | LionTech Digital Ltd. | Z InfoTech AI Limited
 | **Qualifications** | MBA · ACCA |
 | **Currently learning** | Python · R · Core Programming · Advanced JS |
 |  **Ask me about** | HTML · CSS · Tailwind · Node.js · React · Next.js · AI Project Planning · AI Project Creation · MongoDB · Express · WordPress |
