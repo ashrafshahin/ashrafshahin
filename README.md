@@ -28,7 +28,7 @@ Building scalable software that solves real-world problems.
         <img src="https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true" alt="Language Distribution" />
       </td>
     </tr>
     <tr>
