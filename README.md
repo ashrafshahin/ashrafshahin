@@ -39,12 +39,6 @@ Building scalable software that solves real-world problems.
   </table>
 </div>
 
-### 💻 Language Distribution
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true" alt="Language Distribution" />
-</div>
-
 ---
 
 ### 📊 GitHub Contributions
@@ -52,32 +46,6 @@ Building scalable software that solves real-world problems.
 ![GitHub Contributions](https://ghchart.rshah.org/39d353/ashrafshahin)
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true" alt="Language Distribution" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://ghchart.rshah.org/39d353/ashrafshahin" alt="GitHub Contributions" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
- 
 
 ## About Me
 
