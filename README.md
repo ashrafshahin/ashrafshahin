@@ -97,6 +97,70 @@ Building scalable software that solves real-world problems.
 | [Matrimonial Elite](https://shadi-sample.vercel.app/) | Smart matchmaking platform with filters & user profiles | Next.js · Firebase |  Live |
 | [Craftsman Chat App](https://craftsman-shahin.vercel.app/) | Real-time messaging app with modern UI/UX | React · Socket.io | Live |
 
+Featured Projects
+
+1. Z InfoTech AI Ltd — Digital Agency
+
+A digital agency website for a UK-based technology company delivering custom software development, AI solutions, web applications, workflow automation, SaaS platforms, and IT consultancy.
+
+Focus: Digital agency · Software development · AI solutions
+
+
+
+2. Invoice Generator — ZInvoices
+
+A simple, user-friendly web application for generating professional invoices. Users can manage invoice details, calculate totals, and create clean invoice layouts directly in the browser.
+
+Focus: Invoice generation · Billing workflow · AI-assisted development
+
+
+
+3. ecoBazaar — eCommerce Marketplace
+
+A full-stack eCommerce marketplace with a React frontend and a MERN backend. Backend capabilities include product CRUD, OTP-based verification, JWT authentication, session and cookie handling, order APIs, and payment API integration.
+
+Stack: React · Tailwind CSS · Node.js · Express.js · MongoDB
+
+
+
+4. Book Store — Online Bookstore
+
+A responsive, interactive frontend bookstore built from scratch using HTML5, CSS3, and vanilla JavaScript. Features include dynamic book filtering, search functionality, a live shopping cart, and modern animations.
+
+Stack: HTML5 · CSS3 · JavaScript
+
+
+
+5. ZinPass — Password Generator
+
+A web-based password generator designed around a simple, user-friendly interface. The project provides a convenient way to generate passwords in the browser.
+
+Focus: Password generation · Utility application · User experience
+
+
+
+6. HR Manager
+
+An HR management application for employee tracking, workforce administration, and reporting.
+
+Stack: React · Node.js · MongoDB
+
+
+
+7. Matrimonial Elite
+
+A matrimonial platform with user profiles and matchmaking filters designed to help users discover suitable matches.
+
+Stack: Next.js · Firebase
+
+
+
+8. Craftsman Chat App
+
+A real-time messaging application with an interactive interface and modern chat experience.
+
+Stack: React · Socket.io
+
 >  **Pipeline:** PTM · Mirpur Benaroshi Polli · DCCIAN · YellowPage · Task Manager · College Management
 
 ---
