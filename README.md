@@ -30,6 +30,38 @@ Building scalable software that solves real-world problems.
 
 </div>
 
+## About Me
+
+I'm a **Full Stack AI Developer, AI Solutions Engineer, and Technology Entrepreneur** passionate about building scalable software, intelligent applications, and technology-driven business solutions.
+
+As the founder of **Z InfoTech AI Ltd**, I focus on turning ideas into practical digital products through software engineering, AI innovation, and modern web technologies.
+
+### Professional Profile
+
+- **Core Expertise:** AI Engineering · Full Stack Development · AI Solutions Engineering
+- **Entrepreneurship:** Founder of [Z InfoTech AI Ltd](https://z-infotech-ai.vercel.app/)
+- **Qualifications:** MBA · ACCA
+- **Currently Learning:** Python · R · Core Programming · Advanced JavaScript
+
+### Technical Interests
+
+React · Next.js · Node.js · Express.js · MongoDB · Tailwind CSS · HTML · CSS · WordPress
+
+### What I'm Interested In
+
+- Building AI-powered applications and intelligent workflows
+- Developing scalable SaaS products and business platforms
+- Creating startup MVPs and innovative digital products
+- Exploring Generative AI, AI agents, and automation
+- Collaborating with developers, founders, and technology-driven businesses
+
+### Let's Connect
+
+- **Email:** [ashshahin786@gmail.com](mailto:ashshahin786@gmail.com)
+- **Pronouns:** He/Him
+
+  ---
+
 ## Featured Projects
 
 ### Z InfoTech AI Ltd — Digital Agency
@@ -102,22 +134,6 @@ Building scalable software that solves real-world problems.
 
 **Project Link:** [https://craftsman-shahin.vercel.app/](https://craftsman-shahin.vercel.app/)
 
-
----
-
-## About Me
-
-| | |
-|---|---|
-| **Expertising** | AI Engineer | Generative AI Engineering | AI Solutions Engineering
-| **Founder** | LionTech Digital Ltd. | Z InfoTech AI Limited
-| **Qualifications** | MBA · ACCA |
-| **Currently learning** | Python · R · Core Programming · Advanced JS |
-|  **Ask me about** | HTML · CSS · Tailwind · Node.js · React · Next.js · AI Project Planning · AI Project Creation · MongoDB · Express · WordPress |
-|  **Looking to collaborate on** | SaaS · Startups · MVPs · AI tools · Automation |
-| 📧 **Email** | ashshahin786@gmail.com |
-|  **Pronouns** | he / him |
-
 ---
 
 ## Tech Stack
@@ -162,23 +178,6 @@ Building scalable software that solves real-world problems.
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ---
-
-## Featured Projects
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [HR Manager](https://hr-manager-dfw9.onrender.com/) | Full HR management system with employee tracking & reporting | React · Node · MongoDB |  Live |
-| [Matrimonial Elite](https://shadi-sample.vercel.app/) | Smart matchmaking platform with filters & user profiles | Next.js · Firebase |  Live |
-| [Craftsman Chat App](https://craftsman-shahin.vercel.app/) | Real-time messaging app with modern UI/UX | React · Socket.io | Live |
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [Z InfoTech AI Ltd](https://z-infotech-ai.vercel.app/) | UK-based digital agency providing custom software development, AI solutions, web applications, automation, SaaS platforms, and IT consultancy | Next.js · Tailwind CSS · AI Solutions | Live |
-| [Invoice Generator — ZInvoices](https://zinvoices.vercel.app/) | Generate professional invoices, manage billing details, and calculate invoice totals directly in the browser | HTML · CSS · JavaScript | Live |
-| [ecoBazaar eCommerce Marketplace](https://eco-shahin.vercel.app/) | Full-stack eCommerce marketplace with product CRUD, OTP verification, JWT authentication, session and cookie handling, order APIs, and payment API integration | React · Tailwind CSS · Node.js · Express · MongoDB | Live |
-| [Book Store](https://book-store-shahin.vercel.app/) | Responsive online bookstore with dynamic book filtering, search, a live shopping cart, and interactive animations | HTML5 · CSS3 · Vanilla JavaScript | Live |
-| [ZinPass Password Generator](https://zinpass.vercel.app/) | Simple, user-friendly web-based password generator application | Web Technologies | Live |
-
 
 >  **Pipeline:** PTM · Mirpur Benaroshi Polli · DCCIAN · YellowPage · Task Manager · College Management
 
