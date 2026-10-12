@@ -31,15 +31,17 @@ Building scalable software that solves real-world problems.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=donut&theme=tokyonight&hide_border=true" alt="Language Distribution" />
       </td>
     </tr>
-    <tr>
-  <td colspan="2" align="center" width="100%">
+        <tr>
+  <td colspan="2" align="center">
     <img
       src="https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true"
       alt="GitHub Streak"
-      width="100%"
+      width="700"
+      style="max-width:100%; height:auto;"
     />
   </td>
 </tr>
+    
   </table>
 </div>
 
