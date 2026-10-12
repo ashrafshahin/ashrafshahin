@@ -18,6 +18,7 @@ Building scalable software that solves real-world problems.
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight)
 
@@ -29,17 +30,7 @@ Building scalable software that solves real-world problems.
 
 ### 📊 GitHub Contributions
 
-![Ashraf Shahin's GitHub Activity](https://ghchart.rshah.org/0e75b6/ashrafshahin)
-
----
-
-### 🚀 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true)
+![GitHub Contributions](https://ghchart.rshah.org/39d353/ashrafshahin)
 
 ---
 
