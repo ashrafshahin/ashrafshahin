@@ -1,6 +1,7 @@
 <div align="">
 
 # Ashraf Shahin
+![Profile Views](https://komarev.com/ghpvc/?username=ashrafshahin&label=Profile%20Views&color=0e75b6&style=flat)
 
 `Full Stack AI Developer` &nbsp;·&nbsp; `AI Solutions Engineer` &nbsp;·&nbsp; `Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
@@ -18,6 +19,11 @@ Building scalable software that solves real-world problems.
 
 ---
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight)
 
 <div align="center">
 
