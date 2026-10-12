@@ -1,7 +1,7 @@
 <div align="">
 
 # Ashraf Shahin
-![Profile Views](https://komarev.com/ghpvc/?username=ashrafshahin&style=for-the-badge&color=0e75b6) | ![GitHub Stars](https://img.shields.io/github/stars/ashrafshahin/REPOSITORY_NAME?style=for-the-badge&logo=github&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=ashrafshahin&style=for-the-badge&color=0e75b6) 
 
 `Full Stack AI Developer` &nbsp;·&nbsp; `AI Solutions Engineer` &nbsp;·&nbsp; `Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
