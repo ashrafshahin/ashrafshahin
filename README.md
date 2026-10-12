@@ -32,10 +32,14 @@ Building scalable software that solves real-world problems.
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
+  <td colspan="2" align="center" width="100%">
+    <img
+      src="https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      width="100%"
+    />
+  </td>
+</tr>
   </table>
 </div>
 
