@@ -25,16 +25,6 @@ Building scalable software that solves real-world problems.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashrafshahin&theme=tokyonight)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashrafshahin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafshahin&theme=github-dark-blue&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafshahin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-</br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafshahin&theme=github-compact&hide_border=true&height=165" width="88%"/>
-
-</div>
 
 ## About Me
 
