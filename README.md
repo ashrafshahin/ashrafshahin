@@ -183,16 +183,20 @@ Building scalable software that solves real-world problems.
 
 ---
 
-##  Entrepreneurial Focus
+## Entrepreneurial Focus
 
-| Area | Description |
-|------|-------------|
-| SaaS Products | Scalable subscription-based digital products |
-| Automation | Tools that eliminate repetitive workflows |
-| AI Tools | Prompt engineering & AI-powered applications |
-| Startup MVPs | Fast, revenue-ready minimum viable products |
-| eCommerce | Web stores, WooCommerce & digital storefronts |
-| Domain & Hosting | Web hosting reseller & domain management |
+| **Area** | **Description** |
+|---|---|
+| **AI Engineering & Solutions** | Designing AI-powered applications, intelligent workflows, and practical solutions to real-world business challenges. |
+| **Custom Software Development** | Building scalable, maintainable, and business-focused web applications, APIs, and software systems. |
+| **SaaS & Digital Products** | Developing scalable subscription-based platforms, cloud-enabled applications, and product-driven digital businesses. |
+| **Intelligent Automation** | Streamlining repetitive processes through workflow automation, API integrations, and AI-assisted tools. |
+| **Generative AI & AI Agents** | Exploring LLM-powered applications, prompt engineering, AI agent workflows, and intelligent user experiences. |
+| **Startup MVPs & Product Innovation** | Transforming ideas into functional MVPs, validating product concepts, and accelerating digital product development. |
+| **eCommerce & Digital Platforms** | Building online stores, B2B/B2C marketplaces, digital storefronts, and business management solutions. |
+| **Technology Consulting** | Supporting technology strategy, solution architecture, digital transformation, and software project planning. |
+| **Digital Infrastructure** | Providing domain management, web hosting solutions, deployment support, and website infrastructure services. |
+| **Entrepreneurship & Business Innovation** | Combining technology, business strategy, and product thinking to create sustainable digital ventures. |
 
 ---
 ## 📊 GitHub Stats
