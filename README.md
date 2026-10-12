@@ -1,7 +1,7 @@
 <div align="">
 
 # Ashraf Shahin
-![Profile Views](https://komarev.com/ghpvc/?username=ashrafshahin&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ashrafshahin&style=for-the-badge&color=0e75b6)
 
 `Full Stack AI Developer` &nbsp;·&nbsp; `AI Solutions Engineer` &nbsp;·&nbsp; `Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
