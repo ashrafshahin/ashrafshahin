@@ -2,7 +2,7 @@
 
 # Ashraf Shahin
 
-`Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
+`Full Stack AI Developer` &nbsp;·&nbsp; `AI Solutions Engineer` &nbsp;·&nbsp; `Generative AI Engineer` &nbsp;·&nbsp; `Information Business` &nbsp;·&nbsp; `Full Stack Developer` &nbsp;·&nbsp; `MERN Stack` &nbsp;·&nbsp; `Entrepreneur` &nbsp;·&nbsp; `MBA · ACCA` &nbsp;·&nbsp; `Prompt Engineer`
 
 Founder of **LionTech Digital Ltd.** — Programmer · Web Designer & Developer · Software Developer · Business Innovator · Domain & Web Hosting Reseller · Technology Researcher · Content Writer & Blogger.  
 Building scalable software that solves real-world problems.
@@ -35,11 +35,11 @@ Building scalable software that solves real-world problems.
 
 | | |
 |---|---|
-| **Expertising** | Generative AI Engineer | Prompt Engineering |
+| **Expertising** | Generative AI Engineer | AI Engineering | AI Solutions Engineering
 | **Founder** | LionTech Digital Ltd. |
 | **Qualifications** | MBA · ACCA |
 | **Currently learning** | Python · R · Core Programming · Advanced JS |
-|  **Ask me about** | HTML · CSS · Tailwind · React · MongoDB · Express · WordPress |
+|  **Ask me about** | HTML · CSS · Tailwind · Node.js · React · Next.js · AI Project Planning · AI Project Creation · MongoDB · Express · WordPress |
 |  **Looking to collaborate on** | SaaS · Startups · MVPs · AI tools · Automation |
 | 📧 **Email** | ashshahin786@gmail.com |
 |  **Pronouns** | he / him |
